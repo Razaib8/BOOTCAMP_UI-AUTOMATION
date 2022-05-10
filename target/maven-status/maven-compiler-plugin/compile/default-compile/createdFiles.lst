@@ -1,0 +1,5 @@
+com\Page\HomePage.class
+com\Page\RegisterationPage.class
+com\Utility\TestUtil.class
+com\Base\Base.class
+com\Page\SignInPage.class
